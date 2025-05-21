@@ -1,0 +1,5 @@
+body { padding: 20px; background: #f8f9fa; }
+.badge-card { margin-bottom: 1rem; }
+.progress { height: 20px; }
+.game-list-item { display: flex; justify-content: space-between; align-items: center; }
+.game-list-item button { margin-left: 10px; }
